@@ -1,7 +1,10 @@
 # SideScrollBarController
 
-## A simple, elegant and customizable controller that allows you to swipe left and right between views;
+## A simple, elegant and customizable controller that allows you to swipe left and right between views
 
+<p align="center">
+	<img src="SideScrollBarController.gif" alt="SideScrollBarController gif" />
+</p>
 ### Installation instructions:
 - just copy/paste or drag `SideScrollBarController.swift` into your project
 
